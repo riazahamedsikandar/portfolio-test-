@@ -92,6 +92,13 @@ background: linear-gradient(14deg, rgba(235,235,235,1) 45%, rgba(214,191,157,1) 
     text-align: center;
     font-size: 2rem;
 }
+.aboutme h2{
+  margin-top: 1.5rem;
+}
+.aboutme h3{
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
 .honeycomb
 {
   display: -webkit-box;
@@ -208,6 +215,26 @@ background: linear-gradient(14deg, rgba(235,235,235,1) 45%, rgba(214,191,157,1) 
   margin: 0 12.5px;
 }
 .projects h2{
-    text-align: center;
-    font-size: 2rem;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
+.contactme{
+  text-align: center;
+  margin-top: 10rem;
+}
+.contactme h2{
+  font-size: 2rem;
+}
+.contactme form{
+  font-size: 2rem;
+}
+.contactme input{
+  font-size: 1rem;
+}
+.message input{
+  padding-top: 2rem;
+  padding-left: 2.5rem;
+  padding-right: 3rem;
+  padding-bottom: 2rem;
 }
